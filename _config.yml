@@ -5,4 +5,4 @@ show_downloads: false  # Cayman doesn’t usually use this, so you can disable
 google_analytics:      # keep empty or add your GA ID if you want tracking
 
 # Change the theme to Cayman
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
