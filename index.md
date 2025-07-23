@@ -12,6 +12,7 @@ title: Dr. Florian Fahrenbach
 
 ---
 
+## Bio
 
 Florian works as a **Product Owner Data & Analytics** for [Hawa Sliding Solutions](https://www.hawa.com/) near Zurich, Switzerland.  
 Previously, he worked as a (Junior) Data Analytics & Insights Specialist in the Supply Chain Management Division at [Interdiscount](https://www.interdiscount.ch/de) and [Microspot](https://www.microspot.ch/de) in [Jegenstorf](https://goo.gl/maps/sAaZPmb5w3wsbpii6) near Bern, Switzerland.  
@@ -56,7 +57,7 @@ Doctoral thesis: *Valuing prior learning: designing an artifact to assess profes
 ## Coaching & Volunteering
 
 - Guide with the [Swiss Alpine Club (SAC Uto)](https://sac-uto.ch/de/)  
-- Systemic coach with a focus on vocations [WaVe](https://wave.co.at/unsere-coaches/)  
+- Systemic coach with a focus on vocation coaching - ([WaVe](https://wave.co.at/unsere-coaches/))  
 - Passionate about skiing, climbing, and mountaineering
 
 ---
