@@ -12,8 +12,7 @@ title: Dr. Florian Fahrenbach
 
 ---
 
-## Bio
-<div style="text-align: justify;">
+
 Florian works as a **Product Owner Data & Analytics** for [Hawa Sliding Solutions](https://www.hawa.com/) near Zurich, Switzerland.  
 Previously, he worked as a (Junior) Data Analytics & Insights Specialist in the Supply Chain Management Division at [Interdiscount](https://www.interdiscount.ch/de) and [Microspot](https://www.microspot.ch/de) in [Jegenstorf](https://goo.gl/maps/sAaZPmb5w3wsbpii6) near Bern, Switzerland.  
 
@@ -29,7 +28,7 @@ Florian also completed a **Master’s degree** in psychology at the [University 
 During his studies, Florian was a visiting researcher at the [Federal University of Rio de Janeiro](https://ufrj.br/en/) (Brazil) and the [University of Ljubljana](https://www.uni-lj.si/university/) (Slovenia). Before enrolling in university, he spent one year volunteering in a [boarding school](https://dbbangalore.org/don-bosco-davangere/) in India.
 
 Outside academia, he enjoys skiing, climbing, and mountaineering. Florian also volunteers as a guide for the [Swiss Alpine Club](https://sac-uto.ch/de/).
-</div>
+
 ---
 
 ## Projects & Interests
