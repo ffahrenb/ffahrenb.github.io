@@ -1,123 +1,62 @@
 ---
 layout: default
+title: Dr. Florian Fahrenbach
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Dr. Florian Fahrenbach  
+**Product Owner Data & Analytics**  
+*Data Governance • Data Visualization • Databases • Enterprise Architecture • Process Management*
 
-[Link to another page](./another-page.html).
+📍 Zurich, Switzerland  
+[GitHub](https://github.com/ffahrenb) · [LinkedIn](https://www.linkedin.com/in/ffahrenb/) · [Email](mailto:florian.fahrenbach@gmail.com) · [Calendly](https://www.calendly.com/ffahrenb)
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About  
 
-# Header 1
+I currently work as **Product Owner Data & Analytics** at [Hawa Sliding Solutions](https://www.hawa.com/), where I focus on data governance, enterprise and data architecture, and reporting strategy.  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Previously, I was a Data Analytics & Insights Specialist in the Supply Chain division at [Interdiscount](https://www.interdiscount.ch) and [Microspot](https://www.microspot.ch), and worked as a lecturer and researcher at the [Vienna University of Economics and Business (WU Vienna)](https://www.wu.ac.at/en).  
 
-## Header 2
+My background bridges data, architecture, and knowledge systems. I hold a **doctorate (with honors)** from WU Vienna in Information Business (Information Systems or German: Wirtschaftsinformatik).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Projects & Interests
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Enterprise Data Quality Framework** – rule-based scoring & Power BI dashboards  
+- **Data Platform Architecture** – Azure Data Factory, Synapse, and SQL  
+- **Governance & Stewardship Models** – cross-departmental data ownership  
+- **Alpine Tour Planning GPT** – assistant for structured mountaineering tours  
+- **Lean-Agile Procurement Pitch** – new IMS selection strategy  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Research & Teaching
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Former Lecturer at [WU Vienna](https://www.wu.ac.at/en) in the Process and Knowledge Management specialization, teaching Organizational Learning and Knowledge-based Management.  
 
-##### Header 5
+Doctoral thesis: *Valuing prior learning: designing an artifact to assess professional competences: the case of Austria*  
+([Full Text](https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=WUW_alma21109813140003337))  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Academic Profiles**  
+- [Google Scholar](https://scholar.google.de/citations?hl=en&user=L1OzFcwAAAAJ)  
+- [ResearchGate](https://www.researchgate.net/profile/Florian-Fahrenbach)  
+- [ORCID](https://orcid.org/0000-0002-4889-5283)  
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Coaching & Volunteering
 
-### There's a horizontal rule below this.
+- Guide with the [Swiss Alpine Club (SAC Uto)](https://sac-uto.ch/de/)  
+- Career coach with [WaVe](https://wave.co.at/unsere-coaches/)  
+- Passionate about skiing, climbing, and mountaineering
 
-* * *
+---
 
-### Here is an unordered list:
+## Contact
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+For inquiries, collaboration, or networking:  
+[florian.fahrenbach@gmail.com](mailto:florian.fahrenbach@gmail.com)  
+[Book a call](https://www.calendly.com/ffahrenb/)
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
