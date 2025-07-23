@@ -22,7 +22,7 @@ Additionally, he worked as a lecturer at the [Institute for Data, Process and Kn
 Florian conducted his doctoral research under the supervision of Prof. Alexander Kaiser at WU Vienna. Broadly speaking, his research interests were located in the intersection of information systems research and vocational education and training. He employed the design science research methodology to develop an assessment system for professional competences with the goal to support the validation of prior formal, non-formal, and informal learning in the Austrian Skilled Crafts and Trades sector. Florian was awarded a doctorate degree (with honors) at WU Vienna in September 2020 for a thesis with the title 
 [*Valuing prior learning: designing an artifact to assess professional competences: the case of Austria*](https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=WUW_alma21109813140003337&context=L&vid=WUW&lang=en_US&search_scope=WU-Hochschulschriften&adaptor=Local%20Search%20Engine&tab=wuw_alles&query=any,contains,florian%20fahrenbach&offset=0).  
 
-Prior to his doctoral research, Florian obtained a **Master’s degree** from [MEi:CogSci](https://www.meicogsci.eu/), a full-time English-taught, highly research-driven interdisciplinary joint master program in Cognitive Science at the [University of Vienna](https://www.univie.ac.at/) and the [Medical University of Vienna](https://www.meduniwien.ac.at/web/) with a [thesis](https://utheses.univie.ac.at/detail/39814/) on the prioritization of needs, and a **bachelor’s degree in psychology** from the [University of Vienna](https://psychologie.univie.ac.at/en/?q=st).
+Prior to his doctoral research, Florian obtained a **Master’s degree** from [MEi:CogSci](https://www.meicogsci.eu/), a full-time English-taught, highly research-driven interdisciplinary joint master program in Cognitive Science at the [University of Vienna](https://www.univie.ac.at/) and the [Medical University of Vienna](https://www.meduniwien.ac.at/web/) with a [thesis](https://utheses.univie.ac.at/detail/39814/) on the prioritization of needs, and a **bachelor’s degree** in psychology from the [University of Vienna](https://psychologie.univie.ac.at/en/?q=st).
 
 Florian also completed a **Master’s degree** in psychology at the [University of Vienna](https://www.univie.ac.at/) with a [thesis](https://utheses.univie.ac.at/detail/71456/) on the recovery from acute stress. 
 
@@ -65,6 +65,4 @@ Doctoral thesis: *Valuing prior learning: designing an artifact to assess profes
 ## Contact
 
 For inquiries, collaboration, or networking:
-- [florian.fahrenbach@gmail.com](mailto:florian.fahrenbach@gmail.com)
-- [Book a call](https://www.calendly.com/ffahrenb/)
-- [LinkedIn](https://www.linkedin.com/in/ffahrenb/)
+[florian.fahrenbach@gmail.com](mailto:florian.fahrenbach@gmail.com) ·[Book a call](https://www.calendly.com/ffahrenb/) · [LinkedIn](https://www.linkedin.com/in/ffahrenb/)
