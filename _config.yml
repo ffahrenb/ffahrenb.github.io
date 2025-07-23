@@ -1,6 +1,8 @@
-title: Minimal theme
+title: Florian Fahrenbach
+description: Personal website – Data & Analytics | Enterprise Architecture | Data Governance
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+show_downloads: false  # Cayman doesn’t usually use this, so you can disable
+google_analytics:      # keep empty or add your GA ID if you want tracking
+
+# Change the theme to Cayman
+theme: jekyll-theme-cayman
