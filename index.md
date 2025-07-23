@@ -65,4 +65,4 @@ Doctoral thesis: *Valuing prior learning: designing an artifact to assess profes
 ## Contact
 
 For inquiries, collaboration, or networking:
-[florian.fahrenbach@gmail.com](mailto:florian.fahrenbach@gmail.com) ·[Book a call](https://www.calendly.com/ffahrenb/) · [LinkedIn](https://www.linkedin.com/in/ffahrenb/)
+[florian.fahrenbach@gmail.com](mailto:florian.fahrenbach@gmail.com) · [Book a call](https://www.calendly.com/ffahrenb/) · [LinkedIn](https://www.linkedin.com/in/ffahrenb/)
